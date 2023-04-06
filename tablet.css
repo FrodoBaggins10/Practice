@@ -1,0 +1,23 @@
+.header {
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo {
+    margin-bottom: 0;
+}
+  
+.content p {
+    width: 100%;
+    max-width: 530px;
+    margin: 0 auto;
+}
+figure.favorites-images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    padding: 10px;
+    justify-content: space-between;
+  }

@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.favorites-images {
+    width: 300px;
+}
+.footer{
+    justify-content: space-between;
+    padding: 10px;
+}
